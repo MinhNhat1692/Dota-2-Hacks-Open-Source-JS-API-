@@ -1,5 +1,6 @@
 # Corona JS Hack
 > Fully working Dota 2 Hack/Script/Cheats (Free and Opensource API)
+Discord Channel link:https://discord.gg/EBeF5j
 <p align="center">
 <img src="https://i.imgur.com/xHQKu6e.png" alt="look">
 <img src="https://i.imgur.com/2vlLUVg.png" alt="look">
